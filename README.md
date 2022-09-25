@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-curl --silent --url [] --output which_like.sh
+curl --silent --url https://raw.githubusercontent.com/juliocesarscheidt/which-like-linux/main/which_like.sh --output which_like.sh
 chmod +x which_like.sh
 mv which_like /usr/local/bin/which_like
 which_like htop
