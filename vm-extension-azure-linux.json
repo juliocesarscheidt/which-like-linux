@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/juliocesarscheidt/which-like-linux/main/install.sh"],
+  "commandToExecute": "./install.sh"
+}
