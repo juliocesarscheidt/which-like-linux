@@ -1,0 +1,5 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/juliocesarscheidt/which-like-linux/main/script_demo.ps1"],
+  "commandToExecute": "powershell -ExecutionPolicy Unrestricted -File script_demo.ps1"
+}
+
